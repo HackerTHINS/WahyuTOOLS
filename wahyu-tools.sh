@@ -8,7 +8,7 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 sleep 1
 echo
-toilet -f big -F kiddie
+toilet -f big -F gay kiddie
 echo $green"Welcome To Wahyu Tools Tuds"
 echo
 echo $green"SEMOGA HARI MU SURAM YAHAHA BERCANDA"
