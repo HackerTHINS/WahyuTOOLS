@@ -8,16 +8,16 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 sleep 1
 echo
-echo $green"Welcome To Wahyu Tools"
+echo $green"Welcome To Wahyu Tools Tuds"
 echo
-echo $green"jangan lupa subscribe ya"
+echo $green"SEMOGA HARI MU SURAM YAHAHA BERCANDA"
 echo
 sleep 2
-echo $yellow"Pilih Tools Nya Ya :"
+echo $yellow"Pilih Tools Nya Ya TUDS:"
 echo
-echo $cyan"1.) STABILKAN JARINGAN WAHYU"
+echo $cyan"1.) STABILKAN JARINGAN WAHYU MEN"
 echo
-echo $blue"0.) Keluar Sebagai WahyuRoar"
+echo $blue"2.) Keluar Sebagai WahyuRoar"
 echo
 echo $white
 read -p "Pilihmana Tod : " bro
@@ -31,14 +31,14 @@ sleep 2
 ping -s1000 1.1.1.1
 fi
 
-if [ $bro = 0 ] || [ $bro = 0 ]
+if [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
 echo $yellow
 figlet "bye"
-echo $white "To Be Continued Ya Tod"
+echo $white "To Be Continued Ya Wahyu Roar"
 sleep 3
-echo $white "semoga hari mu menyenangkan"
+echo $white "semoga hari mu menyenangkan seperti Wahyu Roar yang menyerang bumi akibat terjadi ledakat ledakan
 sleep 3
 exit
 fi
