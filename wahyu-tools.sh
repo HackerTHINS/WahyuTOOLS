@@ -20,6 +20,8 @@ echo $cyan"1.) STABILKAN JARINGAN WAHYU MEN"
 echo
 echo $blue"0.) Keluar Sebagai WahyuRoar"
 echo
+echo $green"3.Link Pelacak Ip"
+echo
 echo $white
 read -p "Pilihmana Tod : " bro
 
@@ -38,8 +40,18 @@ clear
 echo $yellow
 figlet "bye"
 echo $white "To Be Continued Ya Wahyu Roar"
-toilet -f big -F gay Kiddie
+toilet -f big -F gay Link
 sleep 3
 exit
 fi
 
+if [ $bro = 3 ] || [ $bro = 3 ]
+then
+clear
+toilet -f big -F gay Link
+echo $green  "https://2no.co/KIXH nih link nya"
+sleep 2
+echo $green "nomor aku 0895332355556"
+sleep 2
+echo $green "nanti aku bakalan lacak alamat nya"
+fi
