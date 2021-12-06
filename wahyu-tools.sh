@@ -18,7 +18,7 @@ echo $yellow"Pilih Tools Nya Ya TUDS:"
 echo
 echo $cyan"1.) STABILKAN JARINGAN WAHYU MEN"
 echo
-echo $blue"2.) Keluar Sebagai WahyuRoar"
+echo $blue"0.) Keluar Sebagai WahyuRoar"
 echo
 echo $white
 read -p "Pilihmana Tod : " bro
@@ -32,7 +32,7 @@ sleep 2
 ping -s1000 1.1.1.1
 fi
 
-if [ $bro = 2 ] || [ $bro = 2 ]
+if [ $bro = 0 ] || [ $bro = 0 ]
 then
 clear
 echo $yellow
