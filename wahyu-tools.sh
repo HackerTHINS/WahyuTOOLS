@@ -38,8 +38,7 @@ clear
 echo $yellow
 figlet "bye"
 echo $white "To Be Continued Ya Wahyu Roar"
-sleep 3
-echo $white "semoga hari mu menyenangkan seperti Wahyu Roar yang menyerang bumi akibat terjadi ledakat ledakan
+toilet -f big -F gay Kiddie
 sleep 3
 exit
 fi
