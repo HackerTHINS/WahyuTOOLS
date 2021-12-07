@@ -40,7 +40,7 @@ clear
 echo $yellow
 figlet "bye"
 echo $white "To Be Continued Ya Wahyu Roar"
-toilet -f big -F gay Link
+toilet -f big -F gay Roarrr
 sleep 3
 exit
 fi
