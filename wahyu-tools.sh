@@ -24,6 +24,8 @@ echo $green"3.) Link Pelacak Ip"
 echo
 echo $red"4.) Update Tools"
 echo
+echo $white"5.) WIFI-ROUTER"
+echo
 echo $white
 read -p "Pilihmana Tod : " bro
 
@@ -51,11 +53,11 @@ if [ $bro = 3 ] || [ $bro = 3 ]
 then
 clear
 toilet -f big -F gay Link
-echo $green  "https://2no.co/KIXH nih link nya"
+echo $green  "https://2no.co/KIXH this"
 sleep 2
-echo $green "nomor aku 0895332355556"
+echo $green "MY NUMBER 0895332355556"
 sleep 2
-echo $green "nanti aku bakalan lacak alamat nya"
+echo $green "CHAT WITH ME AND GIVE ME THE CONTACT YOU WANT"
 fi
 
 if [ $bro = 4 ] || [ $bro = 4 ]
@@ -68,5 +70,42 @@ echo $white"Loading..."
 sleep 2
 toilet -f big -F gay EXIT
 figlet "Berhasil Keluar"
+exit
+fi
+
+if [ $bro = 5 ] || [ $bro = 5 ]
+then
+clear
+echo $red "ROUTER SPLOIT"
+sleep 2
+echo $green "INSTALLING BAHAN"
+cowsay MOOOOOOOO
+sleep 1
+pkg install git
+pkg install python3
+pip2 install lolcat
+sleep 2
+echo $red "DOWNLOAD SELESAI"
+sleep 1
+echo $green "SCANNING WIFI AREA"
+sleep 1
+echo $green "CONNECTED"
+sleep 1
+echo $green "ROUTER SPLOIT STARTING"
+sleep 4
+echo $green "STARTING PIN"
+sleep 3
+echo $white "Q23456789"
+sleep 3
+echo $white "123123456789"
+sleep 3
+echo $white "987638444"
+sleep 3
+echo $white "1930528778"
+sleep 3
+echo $white "DEA12083978"
+sleep 3
+echo $white "WIFI ROUTER CANT CONNECT BECAUSE WPA PROTECTION"
+toilet -f big -F gay WIFI ROUTER EXIT
 exit
 fi
