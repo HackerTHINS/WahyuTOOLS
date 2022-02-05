@@ -83,6 +83,7 @@ cowsay MOOOOOOOO
 sleep 1
 pkg install git
 pkg install python3
+gem install nokogiri -v 1.8.0 -- --use-system-libraries
 pip2 install lolcat
 sleep 2
 echo $red "DOWNLOAD SELESAI"
