@@ -20,6 +20,7 @@ gem install nokogiri -v 1.8.0 -- --use-system-libraries
 pkg install git -y
 pkg install mc
 pkg install python2 -y
+PKG install cowsay
 toilet -f small -F gay REQUIRED A Permissions
 termux-setup-storage
 echo $white "Permission located to /sdcard/android/system/root"
