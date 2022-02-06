@@ -44,7 +44,7 @@ echo $red "STARTING TARGET"
 sleep 1
 echo $red "SEND ALL THEARDS"
 sleep 1
-echo $red "COPYING IP ADDRES"
+echo $red "COPYING IP ADDRESS"
 sleep 1
 echo $red "BREAKING IPB-12"
 sleep 1
