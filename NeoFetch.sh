@@ -20,7 +20,7 @@ neofetch
 sleep 1
 echo "Type root to login"
 login
-sleep 1
+sleep 12
 apk --help
 neofetch --help
 exit
